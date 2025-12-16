@@ -1,8 +1,9 @@
 # 👋 Salut, moi c'est Hypotex
 
-🎯 Étudiant Epitech  
-🚀 J'aime construire des projets en Lua & C  
-📍 Basé à Montpellier
+## ✨ À propos
+- 🎯 Étudiant à Epitech (Montpellier)
+- 🧠 Je code surtout en **C** et **Lua**
+- 🎮 Intéressé par le game dev (Unreal / Source)
 
 ---
 
@@ -26,7 +27,7 @@
 ---
 
 ## 🏆 Trophées
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hypotex)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Hypotew)
 
 ---
 
