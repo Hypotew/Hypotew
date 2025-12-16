@@ -15,17 +15,11 @@
 
 ---
 
-## 📌 Projets (les meilleurs)
+## 📌 Projets
 - 🔥 **Forza Like** — A game like Forza Motorsport in 3 month  
   ➜ lien : X
-- ⚡ **Military RolePlay Server** — MRP server project
+- ⚡ **Military RolePlay Server** — Military RP server project  
   ➜ lien : X
-
----
-
-## 📊 Stats GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=hypotew&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypotew&layout=compact)
 
 ---
 
