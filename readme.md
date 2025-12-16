@@ -26,7 +26,7 @@
 ---
 
 ## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=hypotew)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hypotew)](https://git.io/streak-stats)
 
 ---
 
