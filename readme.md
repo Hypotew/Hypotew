@@ -25,8 +25,8 @@
 
 ---
 
-## 📈 Contributions
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hypotex)
+## 🏆 Trophées
+![Trophies](https://github-profile-trophy.vercel.app/?username=Hypotex)
 
 ---
 
