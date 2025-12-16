@@ -25,8 +25,8 @@
 
 ---
 
-## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=hypotew&cache_seconds=86400)
+## 📈 Contributions
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hypotex)
 
 ---
 
