@@ -27,7 +27,7 @@
 ---
 
 ## 🏆 Trophées
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hypotew)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hypotew)
 
 ---
 
