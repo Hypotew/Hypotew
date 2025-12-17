@@ -1,7 +1,7 @@
 # 👋 Salut, moi c'est Hypotex
 
 ## ✨ À propos
-- 🎯 Étudiant à Epitech (Montpellier)
+- 🎯 Étudiant à Epitech
 - 🧠 Je code surtout en **C** et **Lua**
 - 🎮 Intéressé par le game dev (Unreal / Source)
 
